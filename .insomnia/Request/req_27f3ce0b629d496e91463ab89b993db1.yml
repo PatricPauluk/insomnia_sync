@@ -1,0 +1,21 @@
+_id: req_27f3ce0b629d496e91463ab89b993db1
+type: Request
+parentId: fld_b883cc23dda246388e184918d123cc87
+modified: 1664152659860
+created: 1664149073961
+url: http://localhost:3000/cursos/4
+name: Listagem de um curso
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664149649971
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

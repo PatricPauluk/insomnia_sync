@@ -1,0 +1,61 @@
+_id: req_9511b3942e7c4a6a87b9b71b115ddfb2
+type: Request
+parentId: fld_34fd27e5652648de8e511c229e466f3f
+modified: 1665693083717
+created: 1664840768533
+url: localhost:3333/houses
+name: House Store
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_88d7b99820d0445d951f6a34995de39b
+      name: thumbnail
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\patri\Downloads\scott-webb-1ddol8rgUH8-unsplash (1).jpg
+    - id: pair_a1eafa8641784002b1ef9c8d9f194000
+      name: description
+      value: Photo by Scott Webb on Unsplash
+      description: ""
+      type: text
+      multiline: false
+      disabled: false
+    - id: pair_e0efbff83b104557a34e349aaf6f84fd
+      name: price
+      value: "1234"
+      description: ""
+      disabled: false
+    - id: pair_ba9bd885fa2f4dba87a625fc404f4033
+      name: location
+      value: Fanshawe Pioneer Village, London, Canada
+      description: ""
+    - id: pair_9ba90029045e49dd82be6bb104a584bf
+      name: status
+      value: "true"
+      description: ""
+      disabled: false
+    - id: pair_d51e9a075c3b4112ae3b7cff98cca1bc
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_4a2c4186ba68489f842c35ecd0179878
+  - id: pair_98c74af87d6c489596f5e697f5ce64e6
+    name: user_id
+    value: 633aff3101af82673abc3941
+    description: ""
+authentication: {}
+metaSortKey: -1664479012648
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

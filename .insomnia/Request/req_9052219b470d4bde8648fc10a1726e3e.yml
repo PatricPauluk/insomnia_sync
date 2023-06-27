@@ -1,0 +1,29 @@
+_id: req_9052219b470d4bde8648fc10a1726e3e
+type: Request
+parentId: fld_b883cc23dda246388e184918d123cc87
+modified: 1664152647565
+created: 1664149649946
+url: http://localhost:3000/cursos/
+name: Inserindo um curso e exibindo todos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Python"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9da274e77d104f37868e0ae51ed024b3
+authentication: {}
+metaSortKey: -1664149649946
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

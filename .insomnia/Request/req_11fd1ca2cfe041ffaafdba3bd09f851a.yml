@@ -1,0 +1,30 @@
+_id: req_11fd1ca2cfe041ffaafdba3bd09f851a
+type: Request
+parentId: fld_34fd27e5652648de8e511c229e466f3f
+modified: 1665498916233
+created: 1665108499075
+url: localhost:3333/houses
+name: House Index
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_7a9dbf6eca924991875231c4a9965c01
+    name: status
+    value: "true"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_14e1112b2dc44a7db8d002c33d880789
+authentication: {}
+metaSortKey: -1664479012748
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

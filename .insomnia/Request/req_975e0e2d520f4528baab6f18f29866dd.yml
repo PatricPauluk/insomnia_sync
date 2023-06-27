@@ -1,0 +1,29 @@
+_id: req_975e0e2d520f4528baab6f18f29866dd
+type: Request
+parentId: fld_caef413dd5074edfa9602dc07b7bbfa1
+modified: 1665543722409
+created: 1665543124377
+url: localhost:3333/reserves/cancel
+name: Reserve Delete (Cancel)
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"reserve_id": "634595589211b5ce3e06f67b"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d25b6ad51c5345acaed52d986f1ccbe5
+authentication: {}
+metaSortKey: -1665520590834
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

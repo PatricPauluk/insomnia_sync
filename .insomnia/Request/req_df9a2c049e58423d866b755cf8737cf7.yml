@@ -1,0 +1,30 @@
+_id: req_df9a2c049e58423d866b755cf8737cf7
+type: Request
+parentId: fld_2f042b009cd349dca35a487de3b85fc9
+modified: 1667607624890
+created: 1667574453110
+url: "{{ _.base_url }}/tasks"
+name: Create Tasks
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"task": "Finalizar curso"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjY3NTk3ODEyLCJleHAiOjE2NjgyMDI2MTJ9.rrPYRhayI9nMAuP7NhV9QH6Fxpte1LOKKj3tYxE2DbY
+metaSortKey: -1667574453110
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

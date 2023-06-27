@@ -1,0 +1,31 @@
+_id: req_960d1cf8509440688d2efd2f57807a70
+type: Request
+parentId: fld_a4474bc1a5494b39adcc6758cf60c3a8
+modified: 1686518595614
+created: 1670940736572
+url: http://www.omdbapi.com/?s=silent&apikey=42dbe614
+name: Movie tests
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"query":""}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b16f6da05f7e4510a188cffc654307cb
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: ""
+  password: ""
+metaSortKey: -1670940736572
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

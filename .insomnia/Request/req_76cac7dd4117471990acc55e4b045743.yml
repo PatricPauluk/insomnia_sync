@@ -1,0 +1,25 @@
+_id: req_76cac7dd4117471990acc55e4b045743
+type: Request
+parentId: fld_a286bb1e01964360becd9ee3653b48fa
+modified: 1665507800311
+created: 1665436992459
+url: localhost:3333/dashboard
+name: Show Houses
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_f94fb12b129f456abb93f25b295da276
+    name: user_id
+    value: 633aff3101af82673abc3941
+    description: ""
+authentication: {}
+metaSortKey: -1665436992459
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

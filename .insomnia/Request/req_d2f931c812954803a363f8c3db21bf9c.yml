@@ -1,0 +1,21 @@
+_id: req_d2f931c812954803a363f8c3db21bf9c
+type: Request
+parentId: fld_4a012671e7b3471184a5bb6822412e5b
+modified: 1664148469057
+created: 1664148333523
+url: http://localhost:3000/curso?nome=Javascript
+name: List by Query Params
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664148333523
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

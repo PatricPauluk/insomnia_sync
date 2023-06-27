@@ -1,0 +1,25 @@
+_id: req_4cfbb449925f471084e27715f33eb84a
+type: Request
+parentId: fld_caef413dd5074edfa9602dc07b7bbfa1
+modified: 1665543107014
+created: 1665542663443
+url: localhost:3333/reserves
+name: Reserve Index (List)
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_29e95173aa0648f196d1ddb6706435df
+    name: user_id
+    value: 633aff3101af82673abc3941
+    description: ""
+authentication: {}
+metaSortKey: -1665542663443
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

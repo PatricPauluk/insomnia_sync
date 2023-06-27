@@ -1,0 +1,33 @@
+_id: req_e65328ebb9b8465881c22d344cc0e99a
+type: Request
+parentId: fld_34fd27e5652648de8e511c229e466f3f
+modified: 1665499646278
+created: 1665178175515
+url: localhost:3333/houses/
+name: House Delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"house_id": "6345819f7fde6ad77416bef2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_14e1112b2dc44a7db8d002c33d880789
+  - id: pair_9a2cf09f6a2a4ddebbec9aca0f75b27c
+    name: user_id
+    value: 633aff3101af82673abc3941
+    description: ""
+authentication: {}
+metaSortKey: -1664479012698
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

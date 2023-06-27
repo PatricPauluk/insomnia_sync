@@ -1,0 +1,33 @@
+_id: req_541c741fbb1149fd9e8d03479e2017e7
+type: Request
+parentId: fld_caef413dd5074edfa9602dc07b7bbfa1
+modified: 1665543301980
+created: 1665498518224
+url: localhost:3333/houses/63457fc07fde6ad77416bee0/reserve
+name: Reserve Store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"date": "13 de novembro"
+    }
+parameters: []
+headers:
+  - id: pair_b6adc32713ce4cd2b03b5c6a9b79402d
+    name: user_id
+    value: 633aff3101af82673abc3941
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_b5d84a91fb5a451f8e9fe76cdf6c51c4
+authentication: {}
+metaSortKey: -1665498518225
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

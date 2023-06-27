@@ -1,0 +1,30 @@
+_id: req_0c239fc66e724a89b16edd01403370f9
+type: Request
+parentId: fld_2f042b009cd349dca35a487de3b85fc9
+modified: 1667607730049
+created: 1667597968893
+url: "{{ _.base_url }}/tasks/7"
+name: Check Task
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"check": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjY3NTk3ODEyLCJleHAiOjE2NjgyMDI2MTJ9.rrPYRhayI9nMAuP7NhV9QH6Fxpte1LOKKj3tYxE2DbY
+metaSortKey: -1667597968893
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

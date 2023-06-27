@@ -1,0 +1,29 @@
+_id: req_c3181d28892a4e20aafffdda78d21fe0
+type: Request
+parentId: fld_ee10b831ce7f45fd8a908ecd59acb3ad
+modified: 1665946074836
+created: 1664808375300
+url: localhost:3333/sessions
+name: Session Store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "teste@aa"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_97953e88e7e441e9a6e4af8d9c5fc04f
+authentication: {}
+metaSortKey: -1664808351276
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

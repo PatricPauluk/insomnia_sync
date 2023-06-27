@@ -1,0 +1,31 @@
+_id: req_f904128affef4a1e8e6be14831ce92be
+type: Request
+parentId: fld_55cf1c3afcc746119c3f65138195f323
+modified: 1687831016786
+created: 1666916087916
+url: "{{ _.base_url }}/users"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Bruna",
+    	"email": "brubes@brubes.com",
+    	"password": "654321"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1719235a25ae41f3a2ceeca54008d5e5
+authentication: {}
+metaSortKey: -1666916087916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

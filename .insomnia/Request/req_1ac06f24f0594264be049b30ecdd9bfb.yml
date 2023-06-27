@@ -1,0 +1,21 @@
+_id: req_1ac06f24f0594264be049b30ecdd9bfb
+type: Request
+parentId: fld_4a012671e7b3471184a5bb6822412e5b
+modified: 1664209995746
+created: 1664148253752
+url: http://localhost:3000/cursos/1
+name: List by Route Params
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663099432995
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0e91741c6bc841edb478980cdf11d231
+type: Request
+parentId: fld_b883cc23dda246388e184918d123cc87
+modified: 1664152706105
+created: 1664150770042
+url: http://localhost:3000/cursos/2
+name: Deletando um curso
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664149649846
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_e9de2f0a66164acbb5c75e5a2ca4c78a
+type: Request
+parentId: fld_24446493ef1541c0a3978ad4f4fc4082
+modified: 1667607696465
+created: 1667096054243
+url: "{{ _.base_url }}/session"
+name: Session Store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"email": "mir@aomir.com",
+    		"password": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1667096054243
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

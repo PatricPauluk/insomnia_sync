@@ -1,0 +1,36 @@
+_id: req_b2fcfb7458904b929ac12b355bd680b8
+type: Request
+parentId: fld_55cf1c3afcc746119c3f65138195f323
+modified: 1667607720125
+created: 1667260456186
+url: "{{ _.base_url }}/users"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Almir",
+    	"email": "almir@almir.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9ee97e8dece34224a3ea3891009366c2
+  - id: pair_e06eb343240349b9aefe91c80e88b528
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNjY3NjA3Njk3LCJleHAiOjE2NjgyMTI0OTd9.WCufjk0wJytXQRonhLdQRDf5K0xyUD7HuPnjcFTyjaw
+metaSortKey: -1666229375679.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

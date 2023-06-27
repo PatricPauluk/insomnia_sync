@@ -1,0 +1,29 @@
+_id: req_d81b3e23a2bf4990bd9e8ea4140f50d9
+type: Request
+parentId: fld_b883cc23dda246388e184918d123cc87
+modified: 1664210105487
+created: 1664150492249
+url: http://localhost:3000/cursos/3
+name: Atualizando um curso
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "PHP"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7a3569af144842db94da50b4bab3c922
+authentication: {}
+metaSortKey: -1664149649896
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
